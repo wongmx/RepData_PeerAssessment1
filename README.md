@@ -22,7 +22,7 @@ I will try to explore a few questions here: What is mean total number of steps t
 
 ## Data
 
-The data for this assignment can be downloaded from here:
+The data for this project can be downloaded from here:
 
 * Dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]
 

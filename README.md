@@ -18,6 +18,8 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
+I will try to explore a few questions here: What is mean total number of steps taken per day? What is the average daily activity pattern? Are there differences in activity patterns between weekdays and weekends?
+
 ## Data
 
 The data for this assignment can be downloaded from here:
@@ -42,7 +44,6 @@ dataset.
 
 The data is processed/transformed into a format suitable for this analysis.
 
-I will try to explore a few questions here: What is mean total number of steps taken per day? What is the average daily activity pattern? Are there differences in activity patterns between weekdays and weekends?
 
 ### What is mean total number of steps taken per day?
 
